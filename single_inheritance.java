@@ -10,6 +10,9 @@ class Trinagle extends Shape{
 }
 public class single_inheritance{
     public static void main(String[] args) {
-       
+       Shape s = new Shape();
+       s.area();
+       Trinagle t = new Trinagle();
+       t.area(12,14);
     }
 }
