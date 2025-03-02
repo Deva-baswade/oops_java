@@ -1,4 +1,4 @@
-public class poly {
+public class poly1 {
 
     String name;
     int age;
@@ -23,7 +23,7 @@ public class poly {
         // polymorphism
         // method overloading
         
-        poly s1 = new poly();
+        poly1 s1 = new poly1();
         s1.name = "deva";
         s1.age = 20;
         
